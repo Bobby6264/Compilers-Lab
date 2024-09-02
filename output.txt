@@ -1,0 +1,8 @@
+Digit 8
+Digit 7
+add 8 , 7 
+Digit 9
+sub 15 , 9 
+Digit 12
+add 6 , 12 
+done 18 
